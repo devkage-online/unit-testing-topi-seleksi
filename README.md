@@ -1,1 +1,1 @@
-Repository ini merupakan source code untuk tutorial mengenai unit testing dari artikel [Membuat Unit Testing Pada Aplikasi ASP.NET Core](https://devkage.online/tutorial/membuat-unit-testing-pada-aplikasi-asp.net-core/])
+Repository ini merupakan source code untuk tutorial mengenai unit testing dari artikel [Membuat Unit Testing Pada Aplikasi ASP.NET Core](https://devkage.online/tutorial/membuat-unit-testing-pada-aplikasi-asp.net-core/)
